@@ -9,7 +9,7 @@
 ### 🧠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,php,nodejs,express,js,ts,react,nextjs,angular,mysql,postgresql,mongodb,html,css&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,php,nodejs,express,js,ts,nextjs,mysql,postgresql,mongodb,html,css&perline=7" />
 </p>
 
 ---
