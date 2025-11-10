@@ -9,7 +9,7 @@
 ### 🧠 Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,php,nodejs,express,js,ts,nextjs,mysql,postgresql,mongodb,html,css&perline=7" />
+  <img src="https://skillicons.dev/icons?i=python,php,nodejs,express,js,ts,nextjs,mysql,postgresql,mongodb,html,css&perline=22" />
 </p>
 
 ---
@@ -17,20 +17,7 @@
 ### 🌐 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-abdul-sattar-b2b501205/)
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/your-github-username)
-
----
-
-### 📞 Contact
-📧 **Email:** yourname@email.com  
-📱 **Phone:** +91-XXXXXXXXXX  
-
----
-
-### 📊 GitHub Stats
-
-![Sattar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sattar012)
 
 ---
 
