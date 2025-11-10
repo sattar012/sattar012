@@ -1,16 +1,19 @@
-## Hi there 👋
-
-<!--
-**sattar012/sattar012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# Hi! I'm Mohammed Abdul Sattar 👋
+ 
+💻 I’m a Backend Developer skilled in modern web technologies  
+🌍 Based in Hyderabad, India.  
+ 
+---
+ 
+### Tech Stack
+ 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=java,js,ts,nextjs,nodejs,express,mysql,mongodb,php,html,css,tailwind%22 />
+</p>
+ 
+---
+ 
+### 🌐 Connect with me
+ 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohammed-abdul-sattar-b2b501205/)
+numbers 
